@@ -28,6 +28,7 @@ Output:
 
 
 Answer:
+
     <script>
         alert("Welcome to JS Land.."+"\nHappy Birthday!"); 
     </script>
@@ -38,6 +39,7 @@ Output:
 ## Q4.Write a script to display following messages in sequence:
 
 Answer:
+
  <script>
         alert("Welcome to JS Land"); 
         alert("Happy Coding");
@@ -49,5 +51,13 @@ Output:
 ![image](https://github.com/RizwanAnsar2004/SMIT-JS-tasks/assets/131580981/632bede3-a39b-4939-a93e-8f352030457d)
 
 ## Q5. Generate the following message through browser’s developer console:
+
+Answer:
+
+![image](https://github.com/RizwanAnsar2004/SMIT-JS-tasks/assets/131580981/0c601875-eb78-4491-8e0e-c11f0a1e515e)
+
+OUTPUT:
+![image](https://github.com/RizwanAnsar2004/SMIT-JS-tasks/assets/131580981/7d6dbf4d-1844-431a-8487-6427b19f3c15)
+
 ## Q6. Make use of alerts in your new/existing HTML & CSS project.
 ## Q7. Practice placement of <script></script> element in following sections of your project in exercise 6:

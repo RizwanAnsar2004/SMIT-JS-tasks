@@ -38,7 +38,15 @@ Output:
 ## Q4.Write a script to display following messages in sequence:
 
 Answer:
+ <script>
+        alert("Welcome to JS Land"); 
+        alert("Happy Coding");
+    </script>
 
+
+Output:
+![image](https://github.com/RizwanAnsar2004/SMIT-JS-tasks/assets/131580981/5f877c75-5355-4e46-8066-238d42cd8d73)
+![image](https://github.com/RizwanAnsar2004/SMIT-JS-tasks/assets/131580981/632bede3-a39b-4939-a93e-8f352030457d)
 
 ## Q5. Generate the following message through browser’s developer console:
 ## Q6. Make use of alerts in your new/existing HTML & CSS project.

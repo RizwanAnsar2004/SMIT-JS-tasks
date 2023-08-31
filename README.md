@@ -15,8 +15,31 @@ Answer:
 
 
 ## Q2. Write a script to display following message on your web page:
+
+Answer:
+
+ <script>
+        alert("JavaScript Alert!"+"\nError! Please Enter a valid password"); 
+    </script>
+Output:
+![image](https://github.com/RizwanAnsar2004/SMIT-JS-tasks/assets/131580981/3bd1c524-c4c3-49d5-9a39-0d16ef28f6df)
+
 ## Q3. Write a script to display following message on your web page: (Hint : Use line break)
+
+
+Answer:
+    <script>
+        alert("Welcome to JS Land.."+"\nHappy Birthday!"); 
+    </script>
+Output:
+![image](https://github.com/RizwanAnsar2004/SMIT-JS-tasks/assets/131580981/91732b1f-161d-4398-91a2-d9aaabd4a3fc)
+
+
 ## Q4.Write a script to display following messages in sequence:
+
+Answer:
+
+
 ## Q5. Generate the following message through browser’s developer console:
 ## Q6. Make use of alerts in your new/existing HTML & CSS project.
 ## Q7. Practice placement of <script></script> element in following sections of your project in exercise 6:
